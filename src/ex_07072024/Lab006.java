@@ -1,7 +1,8 @@
 package ex_07072024;
 
 public class Lab006 {
-    public static void main(String[] args) {
-        System.out.println();
+    public static void main(String[] Ankita) {
+        System.out.println("Lab007");
+        System.out.println("Lab008");
     }
 }
