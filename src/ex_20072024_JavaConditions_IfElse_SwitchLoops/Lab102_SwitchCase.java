@@ -1,6 +1,6 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
-public class Lab102 {
+public class Lab102_SwitchCase {
     public static void main(String[] args) {
         int a = 11;
         switch (-1){

@@ -1,6 +1,6 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
-public class Lab098 {
+public class Lab098_SwitchCndition {
     public static void main(String[] args) {
         // JDK > 13
 

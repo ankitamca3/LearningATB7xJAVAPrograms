@@ -1,8 +1,8 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
 import java.util.Scanner;
 
-public class Lab104 {
+public class Lab104_LargestNumber {
     public static void main(String[] args) {
         //Program to Find the Largest Among Three Numbers:
         Scanner sc = new Scanner(System.in);

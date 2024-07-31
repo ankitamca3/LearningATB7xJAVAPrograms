@@ -1,8 +1,8 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
 import java.util.Scanner;
 
-public class Lab101 {
+public class Lab101_EmployeeDetails {
     public static void main(String[] args) {
         // Write a program name, age, salary - print it
         Scanner sc = new Scanner(System.in);

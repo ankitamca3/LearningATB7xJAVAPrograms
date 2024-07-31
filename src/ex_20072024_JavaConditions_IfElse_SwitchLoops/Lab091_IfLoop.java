@@ -1,4 +1,4 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
 public class Lab091_IfLoop {
     public static void main(String[] args) {

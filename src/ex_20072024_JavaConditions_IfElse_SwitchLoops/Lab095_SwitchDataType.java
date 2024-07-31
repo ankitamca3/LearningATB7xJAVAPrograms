@@ -1,6 +1,6 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
-public class Lab095 {
+public class Lab095_SwitchDataType {
     public static void main(String[] args) {
         //        int a = 10;
 //        switch (a) {

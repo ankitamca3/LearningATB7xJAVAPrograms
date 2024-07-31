@@ -1,8 +1,8 @@
-package ex_20072024_JavaConditions_Loops;
+package ex_20072024_JavaConditions_IfElse_SwitchLoops;
 
 import java.util.Scanner;
 
-public class Lab103 {
+public class Lab103_PositiveNegativeNumber {
     public static void main(String[] args) {
         // Program to Check
         // if a Number is Positive
