@@ -1,4 +1,4 @@
-package ex_20072024_JavaConditions_IfElse_SwitchLoops;
+package ex_PracticeProblems;
 
 public class Homework_FizzBuzzProgram {
     public static void main(String[] args) {
