@@ -1,6 +1,6 @@
 package ex_21072024_ForLoop_OtherLoops;
 
-public class Lab106 {
+public class Lab106_ForLoop {
     public static void main(String[] args) {
         // Condition -> If else, switch ( multiple conditions)
 
@@ -9,14 +9,14 @@ public class Lab106 {
         // Iterative, repetition
 
 
-        System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
-        System.out.println(4);
-        System.out.println(5);
-        System.out.println("..");
-        System.out.println(10);
-
+//        System.out.println(1);
+//        System.out.println(2);
+//        System.out.println(3);
+//        System.out.println(4);
+//        System.out.println(5);
+//        System.out.println("..");
+//        System.out.println(10);
+//Tedious Task
 
         // Loop a here to perform a task which is repetitive in nature.
 
@@ -32,7 +32,7 @@ public class Lab106 {
 
         for(int i=1;i <=10;++i){
             // here is the code you want to execute
-            System.out.println("Hi"+ i);
+            System.out.println("Hi\t" +  i);
         }
 
     }
