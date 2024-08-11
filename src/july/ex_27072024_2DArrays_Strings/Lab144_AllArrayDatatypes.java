@@ -1,6 +1,6 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
-public class Lab144 {
+public class Lab144_AllArrayDatatypes {
     public static void main(String[] args) {
         int[] int_array = {34,45,43};
         long[] l_array  = {34l, 45l,43l};

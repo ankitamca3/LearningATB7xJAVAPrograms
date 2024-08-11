@@ -1,6 +1,6 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
-public class Lab148 {
+public class Lab148_2DArray {
     public static void main(String[] args) {
         // Single-dimensional arrays
         //  have only one dimension, representing a list of elements.
@@ -11,7 +11,6 @@ public class Lab148 {
         //  have two or more dimensions, representing a table or grid of elements.
         // AT - 2D, 3D - Coding Questions.
         int[] array_1d = {450, 50, 321};
-
 
         //  2D
         int[][] array_2d_2 = new int[3][3];

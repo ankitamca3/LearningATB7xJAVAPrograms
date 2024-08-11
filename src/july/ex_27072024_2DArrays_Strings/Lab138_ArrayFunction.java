@@ -1,8 +1,8 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
 import java.util.Arrays;
 
-public class Lab138 {
+public class Lab138_ArrayFunction {
     public static void main(String[] args) {
         int[] marks_10_board = {90, 91, 95, 99, 100, 78};
         // elements are fixed.

@@ -1,6 +1,6 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
-public class Lab137 {
+public class Lab137_ArrayDataType {
     public static void main(String[] args) {
         // dataType[] arrayName;
         // Data Types

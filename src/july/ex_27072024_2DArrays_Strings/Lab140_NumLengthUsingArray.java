@@ -1,6 +1,6 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
-public class Lab140 {
+public class Lab140_NumLengthUsingArray {
     public static void main(String[] args) {
         int[] numbers = {10, 20, 30, 40, 50};
         for (int i = 0; i < numbers.length; i++) {

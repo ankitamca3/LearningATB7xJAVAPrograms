@@ -1,8 +1,8 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
 import java.util.Scanner;
 
-public class Lab146 {
+public class Lab146_AverageProgram {
     public static void main(String[] args) {
         // Where we take the user input of the 5 subjects - Avg of the subject.
         // Figure inputs - float, scanner class

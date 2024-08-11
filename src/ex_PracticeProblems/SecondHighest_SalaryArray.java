@@ -20,5 +20,25 @@ public class SecondHighest_SalaryArray {
         }
 
         System.out.println("Second Highest Salary :" +salaries[size-2]);
+
+        // Alternate way of finding Second Highest Salary/ Element in an array
+//        int salary[] = {12, 34, 13, 76, 43, 25, 98, 70, 31};
+//
+//        int Highest_Sal = salary[0];
+//        int SecondHighest_Sal = salary[0];
+//
+//        for (int i = 0; i < salary.length; i++)
+//        {
+//            if (Highest_Sal <= salary[i])
+//            {
+//                Highest_Sal = salary[i];
+//            }
+//            else if (salary[i] > SecondHighest_Sal && salary[i] < Highest_Sal)
+//            {
+//                SecondHighest_Sal = Highest_Sal;
+//            }
+//        }
+//        System.out.println(Highest_Sal);
+//        System.out.println(SecondHighest_Sal);
     }
 }

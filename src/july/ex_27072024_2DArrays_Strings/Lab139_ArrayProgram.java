@@ -1,8 +1,8 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
 import java.util.Scanner;
 
-public class Lab139 {
+public class Lab139_ArrayProgram {
     public static void main(String[] args) {
         // Arrays -> new
         int[] marks = new int[3];

@@ -1,6 +1,6 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
-public class Lab143 {
+public class Lab143_DisadvArray {
     public static void main(String[] args) {
         final float pi =  3.14F; // final is alternate name of constant in java
 

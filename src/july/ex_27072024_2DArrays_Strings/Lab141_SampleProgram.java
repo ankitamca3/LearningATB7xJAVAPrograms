@@ -1,6 +1,6 @@
-package july.ex_27072024_Arrays;
+package july.ex_27072024_2DArrays_Strings;
 
-public class Lab141 {
+public class Lab141_SampleProgram {
     public static void main(String[] args) {
         int[] a = new int[4];
         a[3] = 90;
