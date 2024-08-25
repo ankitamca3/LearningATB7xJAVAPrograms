@@ -10,6 +10,7 @@ public class Lab183 {
         d1.bark();
 
         Dog dog_Ref = new Hound();
-        dog_Ref.bark();
+        dog_Ref.bark(); //only can access the overridden functions
+        //dog_Ref.bike();
     }
 }
