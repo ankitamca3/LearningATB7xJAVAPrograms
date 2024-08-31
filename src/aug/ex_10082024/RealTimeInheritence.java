@@ -1,4 +1,4 @@
-package aug.ex_10082024.poly;
+package aug.ex_10082024;
 
 public class RealTimeInheritence {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package aug.ex_10082024.poly.superthiskeyword;
+package aug.ex_10082024.superthiskeyword;
 
 public class Lab185 {
     public static void main(String[] args) {
