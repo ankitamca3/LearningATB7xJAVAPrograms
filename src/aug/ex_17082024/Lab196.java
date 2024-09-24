@@ -8,8 +8,6 @@ public class Lab196 {
         // Integer.MAX_VALUE
         System.out.println(a);
         System.out.println(b);// extra utilities are added.
-        System.out.println(b);// extra utilities are added.
-
 
 
 
@@ -21,4 +19,4 @@ public class Lab196 {
 
     }
     }
-}
+
